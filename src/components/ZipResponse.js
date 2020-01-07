@@ -37,11 +37,11 @@ function ZipResponse(props) {
                             <td>{props.responseData.main.humidity}</td>
                         </tr>
                         <tr>
-                            <td>Temperature (Min)</td>
+                            <td>Temperaturessss (Min)</td>
                             <td>{props.responseData.main.temp_min}</td>
                         </tr>
                         <tr>
-                            <td>Temperature (Max)</td>
+                            <td>Temperaturessss (Max)</td>
                             <td>{props.responseData.main.temp_max}</td>
                         </tr>
                         <tr>
